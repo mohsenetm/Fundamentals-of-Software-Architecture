@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ChapterTwo/ChapterTwo.md",
-                "mode": "source",
+                "file": "Chapter One/Chapter1.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ChapterTwo"
+              "title": "Chapter1"
             }
           }
         ]
@@ -160,6 +160,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -169,5 +170,14 @@
     }
   },
   "active": "2f6d5022861790d9",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Fundamentals of Software Architecture-Mark Richards-Neal Ford-OReilly-9781492043454-EBooksWorld.ir.md",
+    "ChapterTwo/Chapter2.md",
+    "ChapterTwo/Note.md",
+    "Note.md",
+    "Translate Prompt/Prompt.md",
+    "README.md",
+    "Untitled",
+    "ChapterTwo/ChapterTwo.md"
+  ]
 }
