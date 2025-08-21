@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapter One/Chapter1.md",
+                "file": "README.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter1"
+              "title": "README"
             }
           }
         ]
@@ -171,12 +171,36 @@
   },
   "active": "2f6d5022861790d9",
   "lastOpenFiles": [
-    "Fundamentals of Software Architecture-Mark Richards-Neal Ford-OReilly-9781492043454-EBooksWorld.ir.md",
-    "ChapterTwo/Chapter2.md",
-    "ChapterTwo/Note.md",
+    "Chapter3/Chapter3.md",
+    "Chapter3",
+    "Chapter2/Vocab.md",
+    "Chapter2/Chapter2.md",
+    "Chapter2/Quotes.md",
+    "Chapter2",
+    "Chapter1/Figure1-7.png",
+    "Chapter1/Figure1-4.png",
+    "Chapter1/Figure1-6.png",
+    "Chapter1/Figure1-5.png",
+    "Chapter1/Figure1-3.png",
+    "Chapter1/Figure1-2.png",
+    "Chapter1/Chapter1.md",
+    "Chapter1/Figure1-1.png",
+    "Chapter1",
+    "Chapter Two/Quotes.md",
+    "Chapter Two/Vocab.md",
+    "Chapter Two/Chapter2.md",
+    "Chapter Two",
+    "ChapterThree/Chapter3.md",
+    "ChapterThree/Note.md",
+    "ChapterThree",
+    "New folder",
     "Note.md",
-    "Translate Prompt/Prompt.md",
     "README.md",
+    "ChapterTwo/Chapter2.md",
+    "Chapter One/Chapter1.md",
+    "Fundamentals of Software Architecture-Mark Richards-Neal Ford-OReilly-9781492043454-EBooksWorld.ir.md",
+    "ChapterTwo/Note.md",
+    "Translate Prompt/Prompt.md",
     "Untitled",
     "ChapterTwo/ChapterTwo.md"
   ]
