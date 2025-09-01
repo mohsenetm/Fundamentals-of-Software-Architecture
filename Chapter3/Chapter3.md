@@ -1,4 +1,6 @@
-## **CHAPTER 3 Modularity**
+ ## **Chapter 3. Modularity**
+
+---
 
 First, we want to untangle some common terms used and overused in discussions about architecture surrounding modularity and provide definitions for use throughout the book.
 
