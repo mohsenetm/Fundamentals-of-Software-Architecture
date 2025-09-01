@@ -5,7 +5,7 @@ First, we want to untangle some common terms used and overused in discussions ab
 
 95% of the words [about software architecture] are spent extolling the benefits of "modularity" and that little, if anything, is said about how to achieve it.
 
-—Glenford J. Myers (1978)
+—[Glenford J. Myers (1978)](https://en.wikipedia.org/wiki/Glenford_Myers)
 
 Different platforms offer different reuse mechanisms for code, but all support some way of grouping related code together into *modules*. While this concept is universal in software architecture, it has proven slippery to define. A casual internet search yields dozens of definitions, with no consistency (and some contradictions). As you can see from the quote from Myers, this isn't a new problem. However, because no recognized definition exists, we must jump into the fray and provide our own definitions for the sake of consistency throughout the book.
 
